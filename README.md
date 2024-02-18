@@ -6,7 +6,19 @@
 ## Instalación
 Para ejecutar este portafolio localmente, sigue estos pasos:
 
-1. Clona el repositorio.
-2. Navega al directorio del proyecto.
-3. Instala las dependencias.
-4. Inicia el servidor de desarrollo: npm run dev
+1. Clonar el repositorio
+```bash	
+git clone https://github.com/aaolmedo2/Portfolio.git
+```
+```bash	
+cd portfolio
+```
+2. Instalar las dependencias
+
+```bash	
+npm install
+```
+3. Ejecutar el servidor:
+```bash	
+npm run dev
+```  
