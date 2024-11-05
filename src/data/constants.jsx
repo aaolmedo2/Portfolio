@@ -10,7 +10,7 @@ export const Bio = {
         "Estudiante de 8º semestre de Ingeniería en Sistemas con sólidos conocimientos en desarrollo de software, programación en diversos lenguajes y diseño de sistemas. Experiencia en gestión de infraestructura tecnológica, incluyendo administración de bases de datos, redes y entornos de servidor. Con capacidad para abordar proyectos de software desde la planeación hasta la implementación, optimizando recursos y garantizando una ejecución eficiente. Habilidades en metodologías ágiles y un enfoque en la integración de soluciones tecnológicas robustas y escalables.",
     github: "https://github.com/aaolmedo2",
     resume:
-        "https://drive.google.com/file/d/1XHQiDkCNXpZQ2X2_iGcJf7XC4EYME5Vp/view?usp=drive_link",
+        "https://www.linkedin.com/in/angelo-andres-olmedo-camacho-150827218/",
     linkedin: "https://www.linkedin.com/in/angelo-andres-olmedo-camacho-150827218/",
     twitter: "/",
     insta: "https://www.instagram.com/angelo_chelo_/",
