@@ -149,14 +149,16 @@ const Contacto = () => {
         <Title>Contacto</Title>
         <Desc>
           No dude en ponerse en contacto conmigo para cualquier pregunta u oportunidad.        </Desc>
-        <ContactForm ref={form} onSubmit={handleSubmit}>
+
+        {/*         <ContactForm ref={form} onSubmit={handleSubmit}>
           <ContactTitle>Envíame un correo electrónico 🚀</ContactTitle>
           <ContactInput placeholder="Email" name="from_email" autocomplete="off" />
           <ContactInput placeholder="Nombre" name="from_name" autocomplete="off" />
           <ContactInput placeholder="Asunto" name="subject" autocomplete="off" />
           <ContactInputMessage placeholder="Mensaje" rows="4" name="message" autocomplete="off" />
           <ContactButton type="submit" value="Enviar" />
-        </ContactForm>
+        </ContactForm> */}
+
         <Snackbar
           open={open}
           autoHideDuration={6000}

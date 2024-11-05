@@ -102,7 +102,7 @@ function Footer() {
           <SocialMediaIcon href={Bio.insta} target="display"><InstagramIcon /></SocialMediaIcon>
         </SocialMediaIcons>
         <Copyright>
-          &copy; 2024 Angelo Olmedo C. Todos los derechos reservados.
+          2024 Angelo Olmedo C.
         </Copyright>
 
       </FooterWrapper>
