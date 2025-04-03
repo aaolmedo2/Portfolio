@@ -15,8 +15,9 @@ const Navbar = () => {
         <Nav>
             <NavbarContainer>
                 <NavLogo to='/'>
-                    <a style={{ display: "flex", alignItems: "center", color: "white", marginBottom: '20;', cursor: 'pointer' }}>
-                        <GiMountaintop size="3rem" /> <Span>Portfolio</Span>
+                    <a style={{ display: "flex", alignItems: "center", color: "white", marginBottom: '20;', cursor: 'pointer' }} >
+                        <Span>Portfolio</Span>
+                        {/* <GiMountaintop size="1rem" /> <Span>Portfolio</Span> */}
                     </a>
                 </NavLogo>
                 <MobileIcon>
@@ -27,13 +28,13 @@ const Navbar = () => {
                 <MobileIcon>
                 </MobileIcon>
                 <NavItems>
-                    <NavLink href="#about">Acerca de</NavLink>
+                    {/* <NavLink href="#about">me</NavLink> */}
                     <NavLink href='#skills'>Habilidades</NavLink>
                     <NavLink href='#projects'>Proyectos</NavLink>
-                    <NavLink href='#contacto'>Contacto</NavLink>
+                    {/* <NavLink href='#contacto'>Contacto</NavLink> */}
                 </NavItems>
                 <ButtonContainer>
-                    <GitHubButton href={Bio.github} target="_blank">Github</GitHubButton>
+                    <GitHubButton href={Bio.github} target="_blank">GitHub</GitHubButton>
                 </ButtonContainer>
                 {
                     isOpen &&
@@ -54,7 +55,7 @@ const Navbar = () => {
                     </MobileMenu>
                 }
             </NavbarContainer>
-        </Nav>
+        </Nav >
     )
 }
 

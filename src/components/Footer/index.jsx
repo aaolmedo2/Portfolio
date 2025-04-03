@@ -88,13 +88,13 @@ function Footer() {
   return (
     <FooterContainer>
       <FooterWrapper>
-        <Logo>Angelo Olmedo C.</Logo>
-        <Nav>
+        {/* <Logo>Angelo Olmedo C.</Logo> */}
+        {/* <Nav>
           <NavLink href="#about">Acerca de</NavLink>
           <NavLink href="#skills">Habilidades</NavLink>
           <NavLink href="#projects">Proyectos</NavLink>
           <NavLink href="#contacto">Contacto</NavLink>
-        </Nav>
+        </Nav> */}
         <SocialMediaIcons>
           <SocialMediaIcon href={Bio.facebook} target="display"><FacebookIcon /></SocialMediaIcon>
           <SocialMediaIcon href={Bio.twitter} target="display"><TwitterIcon /></SocialMediaIcon>

@@ -7,7 +7,7 @@ import { Bio } from '../../data/constants';
 // Animacion de fondo
 import HeroBgAnimation from '../HeroBgAnimation';
 //Fotos
-import HeroImg from '../../assets/fotoPerfil.jpg';
+import HeroImg from '../../assets/fotoPerfil1.jpg';
 import HeroImg1 from '../../assets/fotoPerfil1.jpg';
 
 

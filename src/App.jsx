@@ -40,7 +40,7 @@ function App() {
           </Wrapper>
           <Projects />
           <Wrapper>
-            <Contacto />
+            {/* <Contacto /> */}
           </Wrapper>
           <Footer />
           {openModal.state &&

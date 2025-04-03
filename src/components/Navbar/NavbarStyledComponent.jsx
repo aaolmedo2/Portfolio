@@ -8,6 +8,7 @@ export const Nav = styled.div`
     align-items: center;
     justify-content: center;
     font-size: 1rem;
+    letter-spacing: .1rem;
     position: sticky;
     top: 0;
     z-index: 10;
@@ -39,8 +40,8 @@ export const NavLogo = styled(LinkR)`
 `;
 export const Span = styled.div`
     padding: 0 4px;
-    font-weight: bold;
-    font-size: 18px;
+    font-size: 30px;
+    letter-spacing: 5px;
 `;
 export const NavItems = styled.ul`
     width: 100%;
@@ -60,6 +61,7 @@ export const NavLink = styled.a`
     color: ${({ theme }) => theme.text_primary};
     font-weight: 500;
     cursor: pointer;
+    letter-spacing: 1px;
     transition: all 0.2s ease-in-out;
     text-decoration: none;
     &:hover {
