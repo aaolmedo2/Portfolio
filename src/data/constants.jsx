@@ -9,6 +9,7 @@ export const Bio = {
     description:
         "Estudiante de 8º semestre de Ingeniería en Sistemas con sólidos conocimientos en desarrollo de software, programación en diversos lenguajes y diseño de sistemas.",
     github: "https://github.com/aaolmedo2",
+    business: "https://www.sheloftai.dev/",
     resume:
         "https://www.linkedin.com/in/angelo-andres-olmedo-camacho-150827218/",
     linkedin: "https://www.linkedin.com/in/angelo-andres-olmedo-camacho-150827218/",
